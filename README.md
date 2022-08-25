@@ -8,13 +8,13 @@
 
 * [About](#about)
 
-* [Operating System](./contents/os/readme.md)
-* [Network](./contents/network/readme.md)
-* [Database](./contents/database/readme.me)
-* [Design Pattern](./contents/designs/readme.md)
+* [Operating System](https://github.com/jayl2sw/Computer-Science/tree/master/contents/os)
+* [Network](https://github.com/jayl2sw/Computer-Science/tree/master/contents/network)
+* [Database](https://github.com/jayl2sw/Computer-Science/tree/master/contents/database)
+* [Design Pattern](https://github.com/jayl2sw/Computer-Science/tree/master/contents/designs)
 * Programming
-  * [Python](./contents/programming/python/readme.md)
-  * [Java](./contents/programming/java/readme.md)
+  * [Python](https://github.com/jayl2sw/Computer-Science/tree/master/contents/programming/python)
+  * [Java](https://github.com/jayl2sw/Computer-Science/tree/master/contents/programming/java)
 
 
 
