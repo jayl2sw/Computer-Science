@@ -6,11 +6,11 @@
 
 **목차**
 
-* [DBMS란?](#DBMS(Database Management System)란?)
-* [Transaction의 특징](#Transaction의 특징)
-* [RDBMS vs NoSQL](#RDBMS vs NoSQL)
-* [데이터베이스 분할 (Partition)](#데이터베이스 분할(Partition))
-* [Join의 수행 원리](#Join의 수행 원리)
+* [DBMS란?](#DBMS(Database-Management-System)란?)
+* [Transaction의 특징](#Transaction의-특징)
+* [RDBMS vs NoSQL](#RDBMS-vs-NoSQL)
+* [데이터베이스 분할 (Partition)](#데이터베이스-분할(Partition))
+* [Join의 수행 원리](#Join의-수행-원리)
 
 
 
