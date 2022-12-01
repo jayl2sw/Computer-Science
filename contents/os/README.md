@@ -6,8 +6,8 @@
 
 **목차**
 
-* [프로세스의 구조](#프로세스의 구조)
-* [Stack 영역 vs Heap 영역](#Stack 영역 vs Heap 영역)
+* [프로세스의 구조](#프로세스의-구조)
+* [Stack 영역 vs Heap 영역](#Stack-영역-vs-Heap-영역)
 * [프로세스 vs 쓰레드](#프로세스-vs-쓰레드)
 * [Context Switching](#Context-Switching)
 
